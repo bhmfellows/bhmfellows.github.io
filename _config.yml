@@ -1,7 +1,7 @@
 # Site settings
-title: Bhm City Guide
+title: Birmingham City Guide
 description: >
-  Product Analyst at Fleetio | Venture for America Fellow | freelance graphic designer
+  A collaborative resource guide for fellows living in the Magic City
 
 baseurl: # this should be empty
 url: "https://bhmfellows.github.io/"
@@ -10,7 +10,7 @@ author:
   fullname: Reagan Cline
   # googleplus: 
   github: ohreagano
-  twitter: ohreagano
+  # twitter: twitter_username
   # disqus: your_disqus_forum_shortname
 
 # google_analytics: 'UA-XXXXXXXX-X'

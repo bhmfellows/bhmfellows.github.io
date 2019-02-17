@@ -22,6 +22,17 @@ Create an entry inside _data/categories.yml
    
 Then you will see it in the footer in the Explore section.
 
+## Other tips for website setup
+
+
+- [How to point a domain on Google Domains to GitHub pages](http://www.curtismlarson.com/blog/2015/04/12/github-pages-google-domains/)
+
+
+To preview a Jekyll / Github Pages site, run the following command line in its own terminal:
+
+```
+jekyll serve --host=$IP --port=$PORT --drafts
+```
 
 ## License
 
