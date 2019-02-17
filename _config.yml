@@ -1,10 +1,10 @@
 # Site settings
-title: Reagan Cline
+title: Bhm City Guide
 description: >
   Product Analyst at Fleetio | Venture for America Fellow | freelance graphic designer
 
 baseurl: # this should be empty
-url: "https://ohreagano.github.io/"
+url: "https://bhmfellows.github.io/"
 
 author:
   fullname: Reagan Cline
