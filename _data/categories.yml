@@ -1,9 +1,11 @@
-- slug: portfolio
-  name: Portfolio
+- slug: live
+  name: Live
   
-- slug: resources
-  name: Resources
-
-- slug: coursework
-  name: Coursework
+- slug: eat-and-drink
+  name: Eat & Drink
   
+- slug: wellness
+  name: Wellness
+  
+- slug: other
+  name: Other

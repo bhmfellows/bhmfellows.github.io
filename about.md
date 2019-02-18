@@ -8,3 +8,4 @@ Welcome! This is a collaborative guide to living in the Magic City - Birmingham,
 
 <img src="/assets/parkinggarage.JPG">
 
+Contribute on [Github](https://github.com/bhmfellows/bhmfellows.github.io)!

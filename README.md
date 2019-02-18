@@ -1,5 +1,10 @@
 # bhmfellows.github.io
 
+## Adding Content to the Guide
+
+1. Create a post
+2. Add it to the appropriate category
+
 
 ## Using Categories
 
